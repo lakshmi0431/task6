@@ -118,8 +118,15 @@ Sales-Trend-Analysis/
 ├── screenshots/
 │   ├── database.png
 │   ├── table_data.png
-│   ├── monthly_revenue.png
-│   └── final_output.png
+│   ├── orders.png
+│   ├──extract.png
+│   ├──group_by.png
+│   ├──sum.png
+│   ├──count.png
+│   ├──order_by1.png
+│   ├──order_by2.png
+│   ├── limit_results.png
+│   └── final _query.png
 └── dataset/
 </pre>
 
@@ -336,27 +343,23 @@ This is useful for analyzing recent months or creating summary reports.
 
 <tr><td>Database Tables</td><td><img src="database_tables.png" width="700"></td></tr>
 
-<tr><td>SELECT Query</td><td><img src="select.png" width="700"></td></tr>
+<tr><td>View Dataset</td><td><img src="orders.png" width="700"></td></tr>
 
-<tr><td>WHERE Query</td><td><img src="where.png" width="700"></td></tr>
+<tr><td>EXTRACT the Month </td><td><img src="extract.png" width="700"></td></tr>
 
-<tr><td>ORDER BY Query</td><td><img src="orderby.png" width="700"></td></tr>
+<tr><td>GROUP BY </td><td><img src="group_by.png" width="700"></td></tr>
 
-<tr><td>GROUP BY Query</td><td><img src="groupby.png" width="700"></td></tr>
+<tr><td>SUM()</td><td><img src="use.png" width="700"></td></tr>
 
-<tr><td>INNER JOIN</td><td><img src="innerjoin.png" width="700"></td></tr>
+<tr><td>COUNT</td><td><img src="conut.png" width="700"></td></tr>
 
-<tr><td>LEFT JOIN</td><td><img src="leftjoin.png" width="700"></td></tr>
+<tr><td>ORDER BY</td><td><img src="order_by1.png" width="700"></td></tr>
 
-<tr><td>RIGHT JOIN</td><td><img src="rightjoin.png" width="700"></td></tr>
+<tr><td></td><td><img src="order_by2.png" width="700"></td></tr>
 
-<tr><td>Subquery</td><td><img src="subquery.png" width="700"></td></tr>
+<tr><td>Limit the Results</td><td><img src="limit_results.png" width="700"></td></tr>
 
-<tr><td>Aggregate Analysis</td><td><img src="aggregate1.png" width="700"></td></tr>
-
-<tr><td>View Output</td><td><img src="create_view.png" width="700"></td></tr>
-
-<tr><td>Final Analysis</td><td><img src="final_analysis1.png" width="700"></td></tr>
+<tr><td>Final Query</td><td><img src="final _query.png" width="700"></td></tr>
 
 </table>
 
@@ -392,7 +395,7 @@ This is useful for analyzing recent months or creating summary reports.
 <h2>👨‍💻 Author</h2>
 
 <p>
-<strong>Bachu Yuvateja</strong><br><br>
+<strong>Sai Lakshmi NandiKatti</strong><br><br>
 Data Analyst | SQL Developer | Power BI Enthusiast
 </p>
 
