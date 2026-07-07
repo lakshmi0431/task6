@@ -349,9 +349,9 @@ This is useful for analyzing recent months or creating summary reports.
 
 <tr><td>GROUP BY </td><td><img src="group_by.png" width="700"></td></tr>
 
-<tr><td>SUM()</td><td><img src="use.png" width="700"></td></tr>
+<tr><td>SUM()</td><td><img src="sum.png" width="700"></td></tr>
 
-<tr><td>COUNT</td><td><img src="conut.png" width="700"></td></tr>
+<tr><td>COUNT</td><td><img src="count.png" width="700"></td></tr>
 
 <tr><td>ORDER BY</td><td><img src="order_by1.png" width="700"></td></tr>
 
